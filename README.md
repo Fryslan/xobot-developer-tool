@@ -1,16 +1,19 @@
 # xobot-developer-tool
 
 Completed Features:
-  
-  Path/Area Maker
+   
+  [x] Path/Area Maker
 
 In Progress Features:
  
-  Basic Data.
-  Visualize Area
+  [] Basic Data.
+  
+  [] Visualize Area
   
 Upcomming Features:
  
-  Settings Explorer
-  Calculator
-  XP Tracker
+  [] Settings Explorer
+  
+  [] Calculator
+  
+  [] XP Tracker
